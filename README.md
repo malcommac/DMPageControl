@@ -10,7 +10,7 @@ Finally you can also use custom UIImages as image for each state of the dot (tak
 
 It's based upon an original work of Damien DeVille with DDPageControl at http://ddeville.me.
 
-![DMInspectorPalette Example Project](http://danielemargutti.com/wp-content/uploads/2012/06/Untitled.png)
+![DMPageControl Example Project](http://danielemargutti.com/wp-content/uploads/2012/11/DMPageControl.png)
 
 ## Donations
 
